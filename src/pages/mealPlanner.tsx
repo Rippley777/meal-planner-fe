@@ -16,13 +16,9 @@ function MealPlanner() {
     const [meals, setMeals] = useState<any>([]);
     const [numOfDays, setNumOfDays] = useState(1);
 
-    const { handleSubmit, control } = useForm({
-        mode: 'all'
-    });
-    // const onSubmit = (data: any) => console.log(data);
+    const { handleSubmit, control } = useForm();
 
     const onSubmit = (data: any) => {
-        // console.log('data: ', typeof data);
         const filteredFields: { [key: string]: any } = Object.entries(data).reduce((acc: any, [key, value]) => {
             if (value !== "") {
                 acc[key] = value;
