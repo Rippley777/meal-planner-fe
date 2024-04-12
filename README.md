@@ -1,3 +1,11 @@
+# Welcome!
+
+This is currently the frontend of a concept of an app built on React, Typescript, Redux, Axios, Tailwind CSS, RHF, and currently only using Jest for testing.
+
+# This is a very rough draft
+
+I'm choosing to leave the default readme for now until the project is developed further.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

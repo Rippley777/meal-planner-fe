@@ -1,0 +1,256 @@
+{
+    "meals": [
+      {
+        "name": "Spaghetti with Tomato Sauce",
+        "type": "Dinner",
+        "ingredients": [
+          {
+            "name": "Spaghetti",
+            "quantity": "100g"
+          },
+          {
+            "name": "Tomato sauce",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Garlic",
+            "quantity": "2 cloves"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "name": "Bruschetta",
+        "type": "Appetizer",
+        "ingredients": [
+          {
+            "name": "Baguette",
+            "quantity": "1"
+          },
+          {
+            "name": "Tomatoes",
+            "quantity": "2"
+          },
+          {
+            "name": "Garlic",
+            "quantity": "1 clove"
+          },
+          {
+            "name": "Basil",
+            "quantity": "5 leaves"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "name": "Caprese Salad",
+        "type": "Salad",
+        "ingredients": [
+          {
+            "name": "Mozzarella cheese",
+            "quantity": "200g"
+          },
+          {
+            "name": "Tomatoes",
+            "quantity": "3"
+          },
+          {
+            "name": "Basil",
+            "quantity": "10 leaves"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Balsamic vinegar",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "name": "Pasta e Fagioli",
+        "type": "Soup",
+        "ingredients": [
+          {
+            "name": "Ditalini pasta",
+            "quantity": "100g"
+          },
+          {
+            "name": "Cannellini beans",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Tomato paste",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Garlic",
+            "quantity": "2 cloves"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1"
+          },
+          {
+            "name": "Carrot",
+            "quantity": "1"
+          },
+          {
+            "name": "Celery",
+            "quantity": "1 stalk"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Chicken broth",
+            "quantity": "4 cups"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "to taste"
+          },
+          {
+            "name": "Parmesan cheese",
+            "quantity": "for garnish"
+          }
+        ]
+      },
+      {
+        "name": "Frittata",
+        "type": "Breakfast",
+        "ingredients": [
+          {
+            "name": "Eggs",
+            "quantity": "6"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1"
+          },
+          {
+            "name": "Bell pepper",
+            "quantity": "1"
+          },
+          {
+            "name": "Potato",
+            "quantity": "1"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "to taste"
+          }
+        ]
+      },
+      {
+        "name": "Minestrone Soup",
+        "type": "Soup",
+        "ingredients": [
+          {
+            "name": "Carrots",
+            "quantity": "2"
+          },
+          {
+            "name": "Celery",
+            "quantity": "2 stalks"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1"
+          },
+          {
+            "name": "Garlic",
+            "quantity": "2 cloves"
+          },
+          {
+            "name": "Canned tomatoes",
+            "quantity": "1 can"
+          },
+          {
+            "name": "Cannellini beans",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Green beans",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Zucchini",
+            "quantity": "1"
+          },
+          {
+            "name": "Spinach",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Vegetable broth",
+            "quantity": "6 cups"
+          },
+          {
+            "name": "Small pasta",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Salt",
+            "quantity": "to taste"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "to taste"
+          },
+          {
+            "name": "Parmesan cheese",
+            "quantity": "for garnish"
+          }
+        ]
+      }
+    ]
+  }
